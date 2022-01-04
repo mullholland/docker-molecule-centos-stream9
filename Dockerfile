@@ -1,6 +1,7 @@
 FROM quay.io/centos/centos:stream9
 
 LABEL maintainer="mullholland"
+LABEL build_update="2022-01-04"
 
 ENV container=docker
 
